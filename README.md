@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dihms
 - 👀 I’m interested in coding and body building
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me via e-mail: dennisdihmoilagan@yahoo.com
 
